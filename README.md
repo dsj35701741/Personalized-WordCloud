@@ -13,7 +13,7 @@
   5. 程序运行环境：Win7、Win10、Win11
 
 三、程序文件及功能\
-1. 主要文件和文件夹的功能说明
+1. 主要文件和文件夹的功能说明\
   文件夹或文件作用	作用
   /main.py	个性化词云生成主程序
   /resource	存放系统所需资源，包括背景图片、示例文本、词云、字体等文件 
@@ -26,8 +26,8 @@
   /resource/user_dict.txt	保存用户自定义分词词典
   /resource/stop_words.txt	保存用户自定义停用词词典
   /resource/word_frequency.txt	保存按降序排列的词频信息
-2. 调用的主要Python库及作用说明
-库名及作用
+2. 调用的主要Python库及作用说明\
+库名及作用\
 tkinter：tkintere用于生成GUI界面及控件。
 jieba:jiebae用于中文分词。
 wordcloud:wordcloud用于生成词云。
